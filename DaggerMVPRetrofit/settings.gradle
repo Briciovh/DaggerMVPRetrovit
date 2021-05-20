@@ -1,0 +1,2 @@
+rootProject.name='DaggerMVPRetrofit'
+include ':app'
